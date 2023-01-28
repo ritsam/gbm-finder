@@ -12,6 +12,10 @@
 
 .header {
     font-size: 1.8em;
+    text-align: center;
+    color: slateblue;
+	background: lavender;
+	text-transform: uppercase;
     margin: 5vh 1vw 0 ;
 }
 
